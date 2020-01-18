@@ -1,0 +1,95 @@
+body {
+    background-color: lightblue;
+    color: black;
+}
+
+h2 {
+    margin: 5px;
+}
+
+.image {
+    height: 300px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    border: 1px solid black;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.main-header {
+    background-color: whitesmoke;
+    font-size: 24px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.main-header p {
+    font-size: 14px;
+    color: white;
+}
+
+.intro {
+    background-color: white;
+    border: 1px solid darkslategrey;
+    font-size: 18px;
+    color: black;
+    padding-left: 3em;
+    padding-right: 3em;
+    line-height: 40px;
+    margin-bottom: .5em;
+    margin-top: 1.5em;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.content {
+    background-color: white;
+    border: 1px solid darkslategrey;
+    border-radius: 10px;
+    font-size: 22px;
+    color: black;
+    padding-left: 3em;
+    padding-right: 3em;
+    line-height: 40px;
+    margin-bottom: .5em;
+    margin-top: .5em;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.back {
+    float: left;
+}
+
+.next {
+    float: right;
+}
+
+.center {
+    margin-left: 45%;
+    margin-right: 40%;
+}
+
+.button {
+     background-color: #1c87c9;
+     border: none;
+     color: white;
+     padding: 20px 34px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 20px;
+     cursor: pointer;
+    border: 1px solid black;
+    border-radius: 15px;
+ }
+
+.buttons {
+    margin-left: 20%;
+    margin-right: 20%
+}
